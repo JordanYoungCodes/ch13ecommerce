@@ -24,5 +24,5 @@ This will be demonstrated in the video tutorial.
 ## Links
 
 ### Git Hub: https://github.com/JordanYoungCodes/ch13ecommerce
-### Video Tutorial:
+### Video Tutorial:https://drive.google.com/file/d/1zsL_I46cDsKvcgPRvCVdE9hnaObzGJTw/view?usp=sharing
 ### E-mail: jordansyoung@gmail.com
